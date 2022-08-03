@@ -5,3 +5,4 @@
 ##### H5
 ###### H6
 ####### H7 is just normal text
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
